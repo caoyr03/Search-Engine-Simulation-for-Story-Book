@@ -3,7 +3,7 @@
 ### Description
 This is a Python program to index words from a collection of short stories and then provide an interface 
 to allow users to conduct short Boolean text queries to find stories that match their search.  
-Stopswords are imported, sample story text file is provided.  
+Stopswords are imported, sample story text file (grimms.txt) is provided.  
 
 ### Functionality
 Enter a search query -> return the results -> enter a new search query / qquit to quit the program  
